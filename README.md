@@ -21,7 +21,6 @@ Develop a machine learning-based web vulnerability scanner "Cult Secure" that an
 - **Automated Browser Interaction**: Selenium (with ChromeDriver)
 - **Machine Learning**: Scikit-learn, Hugging Face Datasets
 - **Scheduling**: Python `schedule` library
-- **PDF Generation**: pdfkit
 - **Logging**: Python `logging` module
 - **Performance & Security Audits**: Google Lighthouse
 - **Data Handling**: Pandas
