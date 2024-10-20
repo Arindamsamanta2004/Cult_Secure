@@ -32,10 +32,11 @@ The machine learning component uses the **Cybersecurity Rules Dataset** from Hug
 
 **Dataset Link**: [Cybersecurity Rules Dataset](https://huggingface.co/datasets/jcordon5/cybersecurity-rules)
 
-#### Web App Interface
+### Web App Interface
 ![WhatsApp Image 2024-10-20 at 03 52 26_86e4ad97](https://github.com/user-attachments/assets/e7090f5f-b7af-4306-92d0-4bb4082eaff6)
 ![WhatsApp Image 2024-10-20 at 03 53 35_fe308981](https://github.com/user-attachments/assets/237fc513-c0fc-4df7-8fab-851ea62acf12)
 ![WhatsApp Image 2024-10-20 at 03 53 53_a32f224b](https://github.com/user-attachments/assets/9b9aa2fb-dce0-4fb2-b0c5-0cf282bb216a)
+![WhatsApp Image 2024-10-20 at 03 55 45_9016104c](https://github.com/user-attachments/assets/c2fefb76-0067-481d-b793-9b0cdc74deda)
 
 
 
